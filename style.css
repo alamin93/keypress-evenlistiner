@@ -1,0 +1,20 @@
+.head1{
+    padding: 20px;
+    background-color: blue;
+    color: #fff;
+    border: 1px solid #000;
+}
+.head2{
+    padding: 20px;
+    background-color: rgb(43, 255, 0);
+    color: #000;
+    border: 1px solid rgb(233, 12, 12);
+}
+.myButton{
+    padding: 10px 40px;
+    margin-right: 20px;
+}
+.anim{
+    box-shadow: 0 15px 18px 0 tomato;
+    opacity: .5;
+}
